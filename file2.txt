@@ -1,1 +1,3 @@
 Create file2 from Github
+Open in otepad from cmd
+
